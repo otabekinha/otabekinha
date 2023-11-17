@@ -109,12 +109,19 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ## **GitHub Analytics**
 
-<h1 align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekinha&show_icons=true&locale=en&layout=compact" alt="otabekinha" /></p>
+<h1 align="center">GitHub Analytics</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otabekinha&show_icons=true&locale=en" alt="otabekinha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekinha&" alt="otabekinha" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekinha&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otabekinha&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabekinha&theme=dark" alt="GitHub Streak" />
+</p>
+
 
