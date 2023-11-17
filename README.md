@@ -66,14 +66,6 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ## **Creator, Otabek Inha**
 
-## **Explore with Otabek Inha on YouTube**
-
-<p align="left">
-  <a href="https://www.youtube.com/otabekinha" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube"/>
-  </a>
-</p>
-
 🚀 Welcome to my YouTube channel! Here, I share insightful videos on various topics, with a focus on Flutter, Google Cloud Platform (GCP), and Terraform. Dive into the world of modern app development, cloud computing, and infrastructure as code with me.
 
 ### 📹 Latest Video Releases:
@@ -100,8 +92,6 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 - [Checkout my latest Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
 - [Connect me on LinkedIn](https://www.linkedin.com/in/otabekinha/)
 
-Stay tuned for exciting content, tutorials, and discussions. Don't forget to like, share, and subscribe for more updates!
-
 <br>
 
 ## **Certifications**
@@ -112,7 +102,10 @@ Stay tuned for exciting content, tutorials, and discussions. Don't forget to lik
 
 <h3 align="center">
 <img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150">
+<img src="https://crowdforgeeks.com/assets/uploads/blogs/aba66c33b74d24ef2f96b706ddde893d.png" width="150" height="150">
+
 <br>
+
 
 ## **GitHub Analytics**
 
