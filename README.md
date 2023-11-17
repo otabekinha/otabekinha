@@ -88,7 +88,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ### 🛠️ Handy Resources:
 
-- [Subscribe to my YouTube Channel](https://www.youtube.com/otabekinha)
+- [Subscribe to my YouTube Channel](https://www.youtube.com/@otabekinha/videos)
 - [Checkout my latest Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
 - [Connect me on LinkedIn](https://www.linkedin.com/in/otabekinha/)
 
