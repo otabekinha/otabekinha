@@ -1,27 +1,21 @@
 <h1 align="center">Hi 👋, I'm Otabek</h1>
-<h3 align="center">A passionate <b>DevOps Engineer</b></h3>
+<h3 align="center">Flutter Developer | 2x GCP Certified | Udemy Instructor | Creator, Otabek Inha</h3>
 
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otabekinha&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="otabekinha" /> </p>
 
+<p>
+  👋 Hi, I'm Otabek Abdurakhmonov, a passionate Flutter developer, Udemy Instructor with over 4,000 students, and the creator behind the Otabek Inha YouTube Channel.
 
+🚀 As a dedicated Flutter developer, I thrive on creating seamless and engaging mobile applications. With a strong foundation in app development, I bring innovation and efficiency to every project.
 
-- I’m currently working on **Docker, Ansible, Terraform and GCP**
+🎓 As an Udemy Instructor, I enjoy sharing my knowledge and expertise with a community of over 4,000 students. Teaching is not just my profession; it's my way of contributing to the growth of aspiring developers.
 
-- I’m currently learning **Ansible, Jenkins**
+📹 On the Otabek Inha YouTube Channel, I share insights into the world of development, offering tutorials and tips to help fellow developers excel in their craft.
 
-- I’m looking to collaborate on **DevOps Projects**
-
-- All of my projects are available at **[GitHub](https://github.com/otabekinha?tab=repositories)**
-
-- I regularly make online courses on Udemy **[Udemy](https://www.udemy.com/user/otabek-abdurakhmonov-2/)**
-
-- How to reach me **[Email](https://otabekinha@gmail.com)** 
-
-- Know about my experiences **[LinkedIn](https://www.linkedin.com/in/otabekinha)**
-
-<br>
+Let's connect and explore the endless possibilities in the world of mobile development! 🚀
+</p>
 
 ## **Skills**
 
