@@ -88,14 +88,20 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 <br>
 
 ## **Certifications**
-<h3 align="left">
+
+<div align="left">
 
 - [Google Cloud Certified: Cloud Digital Leader](https://www.credential.net/18082f1e-719f-4795-b690-c5311f94b174?key=8b88183d3772e1cc21a997c28df7f368d05600d45a125d096e5fd83595ea142f)
+  <br>
+  
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/f0641378-678b-4ed7-8844-ae243ee8ed4c)
 
-<h3 align="center">
-<img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150">
-<img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
+</div>
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150" style="margin-right: 20px;">
+  <img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
+</div>
 
 <br>
 
