@@ -64,20 +64,50 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 | 4 | [AWS Certified Cloud Practitioner CLF-C02 5 Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-5-practice-tests/?couponCode=DB9940EA90722B0448E0) | NOV2023 | DEC17, 2023 |
 
 
+## **Creator, Otabek Inha**
 
-<br>
+## **Explore with Otabek Inha on YouTube**
 
-## **Connect with Me**
+<p align="left">
+  <a href="https://www.youtube.com/otabekinha" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube"/>
+  </a>
+</p>
 
-<h3 align="center">
-<a href="https://www.linkedin.com/in/otabekinha"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.udemy.com/user/otabek-abdurakhmonov-2/" target="_blank"><img src="https://img.icons8.com/color/64/000000/udemy.png" alt="udemy"/></a>
-<a href="https://youtube.com/@simpledevops" target="_blank"><img src="https://img.icons8.com/color/64/000000/youtube-play.png" alt="youtube"/></a>
+🚀 Welcome to my YouTube channel! Here, I share insightful videos on various topics, with a focus on Flutter, Google Cloud Platform (GCP), and Terraform. Dive into the world of modern app development, cloud computing, and infrastructure as code with me.
+
+### 📹 Latest Video Releases:
+
+- [Counter App | Flutter Tutorial | DAY 2](https://youtu.be/-uphCG2cL1E) - [Watch Now](https://youtu.be/-uphCG2cL1E)
+- [Hello World App | Flutter Tutorial | DAY 1](https://youtu.be/d39mJ4p5K5k) - [Watch Now](https://youtu.be/d39mJ4p5K5k)
+
+### 🔥 Popular Playlists:
+
+1. **Flutter Development:**
+  - [Flutter Mini Projects](https://www.youtube.com/playlist?list=PLL220wRvDvTndDyF5258yskRYLgEPMhlT) 
+
+2. **Google Cloud Platform (GCP) with Terraform:**
+   - [Terraform with GCP](https://www.youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev)
+   - [GCP Hands-On](https://www.youtube.com/playlist?list=PLL220wRvDvTmYNwyZu541b_BfbCQUYAzT)
+
+3. **Amazon Web Services (AWS):**
+   - [AWS Hands-On](https://www.youtube.com/playlist?list=PLL220wRvDvTl7NdX5aZzeHTZXr_cQ5KnE)
+
+
+### 🛠️ Handy Resources:
+
+- [Subscribe to my YouTube Channel](https://www.youtube.com/otabekinha)
+- [Checkout my latest Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
+- [Connect me on LinkedIn](https://www.linkedin.com/in/otabekinha/)
+
+Stay tuned for exciting content, tutorials, and discussions. Don't forget to like, share, and subscribe for more updates!
+
 <br>
 
 ## **Certifications**
 <h3 align="left">
 
+- [Google Cloud Certified: Cloud Digital Leader](https://www.credential.net/18082f1e-719f-4795-b690-c5311f94b174?key=8b88183d3772e1cc21a997c28df7f368d05600d45a125d096e5fd83595ea142f)
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/f0641378-678b-4ed7-8844-ae243ee8ed4c)
 
 <h3 align="center">
