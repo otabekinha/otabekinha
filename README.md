@@ -101,19 +101,18 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ## 🧑🏻‍💻 Connect With Me:
 
-<p align="center">
-  <a href="https://www.youtube.com/@otabekinha/videos" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="YouTube" style="margin: 0 20px;" />
-  </a>
+<div align="left">
   
-  <a href="https://www.udemy.com/courses/search/?src=ukw&q=otabek" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/udemy.png" alt="Udemy" style="margin: 0 20px;" />
-  </a>
+  [![YouTube](https://img.icons8.com/color/96/000000/youtube-play.png)](https://www.youtube.com/@otabekinha/videos)
+  <br>
   
-  <a href="https://www.linkedin.com/in/otabekinha/" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" style="margin: 0 20px;" />
-  </a>
-</p>
+  [![Udemy](https://img.icons8.com/color/96/000000/udemy.png)](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
+  <br>
+  
+  [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/otabekinha/)
+  
+</div>
+
 
 
 
