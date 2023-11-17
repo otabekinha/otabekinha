@@ -113,7 +113,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekinha&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=otabekinha&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
 </p>
 
