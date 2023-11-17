@@ -85,13 +85,6 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 3. **Amazon Web Services (AWS):**
    - [AWS Hands-On](https://www.youtube.com/playlist?list=PLL220wRvDvTl7NdX5aZzeHTZXr_cQ5KnE)
 
-
-### 🛠️ Handy Resources:
-
-- [Subscribe to my YouTube Channel](https://www.youtube.com/@otabekinha/videos)
-- [Checkout my latest Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
-- [Connect me on LinkedIn](https://www.linkedin.com/in/otabekinha/)
-
 <br>
 
 ## **Certifications**
@@ -103,6 +96,14 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 <h3 align="center">
 <img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150">
 <img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
+
+<br>
+
+## 🧑🏻‍💻 Connect With Me:
+
+- [Subscribe to my YouTube Channel](https://www.youtube.com/@otabekinha/videos)
+- [Checkout my latest Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
+- [Connect me on LinkedIn](https://www.linkedin.com/in/otabekinha/)
 
 <br>
 
