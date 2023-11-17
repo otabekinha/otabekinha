@@ -19,33 +19,44 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ## **Skills**
 
-<p align="center">
-  
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+
   <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter"/>
   </a>
   
+  <span style="margin-right: 20px;"></span> <!-- Adjust the margin as needed -->
+
   <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/dart.png" alt="Dart"/>
   </a>
+
+  <span style="margin-right: 20px;"></span>
 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/google-cloud.png" alt="Google Cloud"/>
   </a>
   
+  <span style="margin-right: 20px;"></span>
+
   <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/terraform.png" alt="Terraform"/>
   </a>
 
+  <span style="margin-right: 20px;"></span>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git"/>
   </a>
- 
+
+  <span style="margin-right: 20px;"></span>
+
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub"/>
   </a>
 
 </p>
+
 
 
 
