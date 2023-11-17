@@ -19,8 +19,35 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 ## **Skills**
 
-<p align="center">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="html5"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/css3.png" alt="css3"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/linux--v1.png" alt="linux"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/docker.png" alt="docker"/> </a><a href="https://www.terraform.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/terraform.png" alt="docker"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/ansible.png" alt="ansible"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/google-cloud.png" alt="gcp"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/git.png" alt="git"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/jenkins.png" alt="jenkins"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/kubernetes.png" alt="kubernetes"/> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="python"/> </a> </p>
+<p align="center">
+  
+  <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter"/>
+  </a>
+  
+  <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/dart.png" alt="Dart"/>
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/google-cloud.png" alt="Google Cloud"/>
+  </a>
+  
+  <a href="https://www.terraform.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/terraform.png" alt="Terraform"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git"/>
+  </a>
+ 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub"/>
+  </a>
+
+</p>
+
+
 
 
 <br>
