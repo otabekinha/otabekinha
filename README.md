@@ -102,9 +102,9 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 <h3 align="left">
 <img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150">
+<br>
 <img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
 
-<br>
 
 
 <h1 align="left">GitHub Analytics</h1>
