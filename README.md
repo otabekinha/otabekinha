@@ -102,7 +102,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 <h3 align="center">
 <img src="https://miro.medium.com/v2/1*T59fnCvp71WqNeuytWGorA.png" width="150" height="150">
-<img src="https://crowdforgeeks.com/assets/uploads/blogs/aba66c33b74d24ef2f96b706ddde893d.png" width="150" height="150">
+<img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
 
 <br>
 
