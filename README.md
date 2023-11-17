@@ -58,10 +58,10 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 | No  | Course Link | Coupon Code | Valid Until |
 | --- | ----------- | ----------- | ----------- |
-| 1 | [Terraform for Beginners using GCP](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud-platform-gcp/?couponCode=EF9EE751BCB9140E7748) | MAY2023 | June 1, 2023 |
-| 2 | [30 Days of Google Cloud Platform](https://www.udemy.com/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/?couponCode=CCE1C9F78E38BCBCD284) | MAY2023 | June 1, 2023 |
-| 3 | [Terraform Associate Certification Practice Tests](https://www.udemy.com/course/terraform-associate-certification-practice-test-exam-2023/?couponCode=4F7DF0F8D3B83F23E7E6) | MAY2023 | June 1, 2023 |
-| 4 | [Google Cloud Certified ACE Practice Tests](https://www.udemy.com/course/google-cloud-certified-ace-practice-tests-i/?couponCode=A17707BC99B958E40606) | MAY2023 | June 1, 2023 |
+| 1 | [Terraform for Beginners using GCP](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud-platform-gcp/?couponCode=2C043499442C3A8BC7FA) | NOV2023 | DEC17, 2023 |
+| 2 | [30 Days of Google Cloud Platform](https://www.udemy.com/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/?couponCode=4CC92115EF5DB20471EB) | NOV2023 | DEC17, 2023 |
+| 3 | [Terraform Associate Certification Practice Tests](https://www.udemy.com/course/terraform-associate-certification-practice-test-exam-2023-x/?couponCode=FFCF87B1A69B610CBF96) | NOV2023 | DEC17, 2023 |
+| 4 | [AWS Certified Cloud Practitioner CLF-C02 5 Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-5-practice-tests/?couponCode=DB9940EA90722B0448E0) | NOV2023 | DEC17, 2023 |
 
 
 
