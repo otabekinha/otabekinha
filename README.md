@@ -107,20 +107,17 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 <br>
 
 
-## **GitHub Analytics**
-
-
 <h1 align="left">GitHub Analytics</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekinha&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=otabekinha&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabekinha&theme=dark" alt="GitHub Streak" width="400" />
 </p>
 
