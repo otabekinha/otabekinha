@@ -103,17 +103,18 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 <p align="center">
   <a href="https://www.youtube.com/@otabekinha/videos" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" style="margin: 0 15px;" />
+    <img src="https://img.icons8.com/color/96/000000/youtube-play.png" alt="YouTube" style="margin: 0 20px;" />
   </a>
   
   <a href="https://www.udemy.com/courses/search/?src=ukw&q=otabek" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/udemy.png" alt="Udemy" style="margin: 0 15px;" />
+    <img src="https://img.icons8.com/color/96/000000/udemy.png" alt="Udemy" style="margin: 0 20px;" />
   </a>
   
   <a href="https://www.linkedin.com/in/otabekinha/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 15px;" />
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" style="margin: 0 20px;" />
   </a>
 </p>
+
 
 
 <h1 align="left">GitHub Analytics</h1>
