@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otabekinha&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="otabekinha" /> </p>
 
 <p>
-  👋 Hi, I'm Otabek Abdurakhmonov, a passionate Flutter developer, Udemy Instructor with over 4,000 students, and the creator behind the Otabek Inha YouTube Channel.
+  👋 Hi, I'm Otabek Abdurakhmonov, a passionate <b>Flutter developer</b>, <b>Udemy Instructor</b> with over 4,000 students, and the creator behind the <b>Otabek Inha</b> youtube channel.
 
 🚀 As a dedicated Flutter developer, I thrive on creating seamless and engaging mobile applications. With a strong foundation in app development, I bring innovation and efficiency to every project.
 
