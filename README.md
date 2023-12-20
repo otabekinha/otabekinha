@@ -83,7 +83,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 | **Key**                  | **Value**                                                               |
 | ------------------------ | ----------------------------------------------------------------------- |
 | **Education Level**      | Bachelor's in Business Administration (International Business and Trade)|
-| **Experience**           | - Self-motivated junior Flutter enthusiast actively working on personal projects  |
+| **Experience**           | - Self-motivated junior Flutter enthusiast actively working on personal projects  
 |                          | - (4m) Internship as a Cloud Engineer at OpsAngels Company                |
 | **Expert Tech Stack**    | - Flutter, Dart, Mobile App Development, Google Cloud Platform (GCP), Terraform |
 | **Languages**            | 1. Fluent in English 🇺🇸                                               |
