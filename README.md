@@ -77,32 +77,27 @@ Let's connect and explore the endless possibilities in the world of mobile devel
   <img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="150" height="150">
 </div>
 
-
 # Developer Profile
 
-| Key                   | Value                                                               |
-| --------------------- | ------------------------------------------------------------------- |
-| **Education Level**   | Bachelor's in Business Administration (International Business and Trade)        |
-| **Experience**        | - Self-motivated junior flutter enthusiast actively working on personal projects |
-|                       | - (4m) Internship as a Cloud Engineer at OpsAngels Company |
-| **Expert Tech Stack** | - Flutter                                                         |
-|                       | - Dart                                                     |
-|                       | - Mobile app development                                                         |
-|                       | - GCP                                                             |
-|                       | - Terraform                                                         |
-| **Languages**         | 1. Fluent in English 🇺🇸                                            |
-|                       | 2. Conversational in Korean 🇰🇷                                             |
-|                       | 3. Conversational in Russian 🇷🇺                                            |
-|                       | 4. Native in Uzbek 🇺🇿                                              |
-| **Teaching**|         | [Instructor on Udemy]([https://www.udemy.com/courses/search/?src=ukw&q=otabek])                                              |
-|                       | - [Terraform for Beginners using GCP](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud-platform-gcp/?couponCode=2C043499442C3A8BC7FA) | NOV2023 | DEC17, 2023               |
-|                       | - [30 Days of Google Cloud Platform](https://www.udemy.com/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/?couponCode=4CC92115EF5DB20471EB) | NOV2023 | DEC17, 2023 |
-|                       | - [Terraform Associate Certification Practice Tests](https://www.udemy.com/course/terraform-associate-certification-practice-test-exam-2023-x/?couponCode=FFCF87B1A69B610CBF96) | NOV2023 | DEC17, 2023 |
-| **Creator**           | [Otabek Inha YouTube Channel]([https://www.youtube.com/c/OtabekInha](https://www.youtube.com/@otabekinha)) |
-|                       | - [Learn Flutter - Speed Code]([[https://www.youtube.com/watch?v=ne6R0Zluqj4&t=2952s](https://youtube.com/playlist?list=PLL220wRvDvTndDyF5258yskRYLgEPMhlT&si=FCVtS82W0Sd7cdlj)]) |
-|                       | - [Terraform]([[https://www.youtube.com/watch?v=ne6R0Zluqj4&t=2952s](https://youtube.com/playlist?list=PLL220wRvDvTmfQuR_rT3IfX2o28dn-QlM&si=F_RQw9KAUiQf0Bx6)]) |
-|                       | - [Docker]([[https://www.youtube.com/watch?v=ne6R0Zluqj4&t=2952s](https://youtube.com/playlist?list=PLL220wRvDvTl7aNIaQik7mJ4KWHhlTOj2&si=XvpZkAjR72_8RicD)]) |
-|                       | - [GCP with Terraform]([[https://www.youtube.com/watch?v=ne6R0Zluqj4&t=2952s](https://youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev&si=lqOz9zxv6k30VTb5)https://youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev&si=lqOz9zxv6k30VTb5]) |
+| **Key**                  | **Value**                                                               |
+| ------------------------ | ----------------------------------------------------------------------- |
+| **Education Level**      | Bachelor's in Business Administration (International Business and Trade)|
+| **Experience**           | - Self-motivated junior Flutter enthusiast actively working on personal projects  |
+|                          | - (4m) Internship as a Cloud Engineer at OpsAngels Company                |
+| **Expert Tech Stack**    | - Flutter, Dart, Mobile App Development, Google Cloud Platform (GCP), Terraform |
+| **Languages**            | 1. Fluent in English 🇺🇸                                               |
+|                          | 2. Conversational in Korean 🇰🇷                                        |
+|                          | 3. Conversational in Russian 🇷🇺                                       |
+|                          | 4. Native in Uzbek 🇺🇿                                                 |
+| **Teaching**             | - [Instructor on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=otabek)|
+|                          | - [Terraform for Beginners using GCP](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud-platform-gcp/?couponCode=2C043499442C3A8BC7FA) (NOV2023 - DEC17, 2023) |
+|                          | - [30 Days of Google Cloud Platform](https://www.udemy.com/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/?couponCode=4CC92115EF5DB20471EB) (NOV2023 - DEC17, 2023) |
+|                          | - [Terraform Associate Certification Practice Tests](https://www.udemy.com/course/terraform-associate-certification-practice-test-exam-2023-x/?couponCode=FFCF87B1A69B610CBF96) (NOV2023 - DEC17, 2023) |
+| **Creator**              | [Otabek Inha YouTube Channel](https://www.youtube.com/@otabekinha)      |
+|                          | - [Learn Flutter - Speed Code](https://youtube.com/playlist?list=PLL220wRvDvTndDyF5258yskRYLgEPMhlT&si=FCVtS82W0Sd7cdlj) |
+|                          | - [Terraform](https://youtube.com/playlist?list=PLL220wRvDvTmfQuR_rT3IfX2o28dn-QlM&si=F_RQw9KAUiQf0Bx6) |
+|                          | - [Docker](https://youtube.com/playlist?list=PLL220wRvDvTl7aNIaQik7mJ4KWHhlTOj2&si=XvpZkAjR72_8RicD) |
+|                          | - [GCP with Terraform](https://youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev&si=lqOz9zxv6k30VTb5) |
 
 
 
