@@ -60,29 +60,6 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 | 4 | [AWS Certified Cloud Practitioner CLF-C02 5 Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-5-practice-tests/?couponCode=DB9940EA90722B0448E0) | NOV2023 | DEC17, 2023 |
 
 
-## **Creator, Otabek Inha**
-
-🚀 Welcome to my YouTube channel! Here, I share insightful videos on various topics, with a focus on Flutter, Google Cloud Platform (GCP), and Terraform. Dive into the world of modern app development, cloud computing, and infrastructure as code with me.
-
-### 📹 Latest Video Releases:
-
-- [Counter App | Flutter Tutorial | DAY 2](https://youtu.be/-uphCG2cL1E) - [Watch Now](https://youtu.be/-uphCG2cL1E)
-- [Hello World App | Flutter Tutorial | DAY 1](https://youtu.be/d39mJ4p5K5k) - [Watch Now](https://youtu.be/d39mJ4p5K5k)
-
-### 🔥 Popular Playlists:
-
-1. **Flutter Development:**
-  - [Flutter Mini Projects](https://www.youtube.com/playlist?list=PLL220wRvDvTndDyF5258yskRYLgEPMhlT) 
-
-2. **Google Cloud Platform (GCP) with Terraform:**
-   - [Terraform with GCP](https://www.youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev)
-   - [GCP Hands-On](https://www.youtube.com/playlist?list=PLL220wRvDvTmYNwyZu541b_BfbCQUYAzT)
-
-3. **Amazon Web Services (AWS):**
-   - [AWS Hands-On](https://www.youtube.com/playlist?list=PLL220wRvDvTl7NdX5aZzeHTZXr_cQ5KnE)
-
-<br>
-
 ## **Certifications**
 
 <div align="left">
@@ -101,38 +78,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 </div>
 
 
-<br>
 
-## 🧑🏻‍💻 Connect With Me:
-
-<div align="left">
-  
-  [![YouTube](https://img.icons8.com/color/96/000000/youtube-play.png)](https://www.youtube.com/@otabekinha/videos)
-  <br>
-  
-  [![Udemy](https://img.icons8.com/color/96/000000/udemy.png)](https://www.udemy.com/courses/search/?src=ukw&q=otabek)
-  <br>
-  
-  [![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/otabekinha/)
-  
-</div>
-
-
-
-
-<h1 align="left">GitHub Analytics</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekinha&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=otabekinha&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabekinha&theme=dark" alt="GitHub Streak" width="400" />
-</p>
 
 
 
