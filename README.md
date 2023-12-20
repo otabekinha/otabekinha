@@ -1,6 +1,3 @@
-# Developer Profile
-
-
 | **Key**                  | **Value**                                                               |
 | ------------------------- | ---------------------------------------------------------------------- |
 | **Education**             | Bachelor's in Business Administration (International Business and Trade)|
