@@ -82,8 +82,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 | **Key**                  | **Value**                                                               |
 | ------------------------ | ----------------------------------------------------------------------- |
 | **Education Level**      | Bachelor's in Business Administration (International Business and Trade)|
-| **Experience**           | - Self-motivated junior Flutter enthusiast actively working on personal projects  |
-|                          | - (4m) Internship as a Cloud Engineer at OpsAngels Company                |
+| **Experience**           | - Self-motivated junior Flutter enthusiast actively working on personal projects \| (4m) Internship as a Cloud Engineer at OpsAngels Company |
 | **Expert Tech Stack**    | - Flutter, Dart, Mobile App Development, Google Cloud Platform (GCP), Terraform |
 | **Languages**            | 1. Fluent in English 🇺🇸                                               |
 |                          | 2. Conversational in Korean 🇰🇷                                        |
@@ -98,6 +97,7 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 |                          | - [Terraform](https://youtube.com/playlist?list=PLL220wRvDvTmfQuR_rT3IfX2o28dn-QlM&si=F_RQw9KAUiQf0Bx6) |
 |                          | - [Docker](https://youtube.com/playlist?list=PLL220wRvDvTl7aNIaQik7mJ4KWHhlTOj2&si=XvpZkAjR72_8RicD) |
 |                          | - [GCP with Terraform](https://youtube.com/playlist?list=PLL220wRvDvTm_MyPtW0W3kc1_Htb3cJev&si=lqOz9zxv6k30VTb5) |
+
 
 
 
