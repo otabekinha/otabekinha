@@ -80,10 +80,11 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 # Developer Profile
 
 
-| **Professional Profile**  |                                                                        |
+| **Key**                  | **Value**                                                               |
 | ------------------------- | ---------------------------------------------------------------------- |
 | **Education**             | Bachelor's in Business Administration (International Business and Trade)|
-| **Experience**            | - Self-motivated junior Flutter enthusiast actively engaged in personal projects - Internship (4 months) as a Cloud Engineer at OpsAngels Company |
+| **Experience**            | - Self-motivated junior Flutter enthusiast actively engaged in personal projects 
+|                           | - Internship (4 months) as a Cloud Engineer at OpsAngels Company |
 | **Technical Expertise**   | - Flutter, Dart, Mobile App Development, Google Cloud Platform (GCP), Terraform |
 | **Languages**             | 1. Fluent in English 🇺🇸 2. Conversational in Korean 🇰🇷 3. Conversational in Russian 🇷🇺 4. Native in Uzbek 🇺🇿 |
 | **Teaching Experience**   | - Udemy Instructor ([Courses](https://www.udemy.com/courses/search/?src=ukw&q=otabek)) - [Terraform for Beginners using GCP](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud-platform-gcp/?couponCode=2C043499442C3A8BC7FA) (NOV2023 - DEC17, 2023) - [30 Days of Google Cloud Platform](https://www.udemy.com/course/30-days-of-google-cloud-the-complete-gcp-beginners-bootcamp/?couponCode=4CC92115EF5DB20471EB) (NOV2023 - DEC17, 2023) - [Terraform Associate Certification Practice Tests](https://www.udemy.com/course/terraform-associate-certification-practice-test-exam-2023-x/?couponCode=FFCF87B1A69B610CBF96) (NOV2023 - DEC17, 2023) |
