@@ -47,18 +47,6 @@ Let's connect and explore the endless possibilities in the world of mobile devel
 
 </p>
 
-
-
-# Developer Profile
-
-| Key                | Value                                      |
-| ------------------ | ------------------------------------------ |
-| **Education Level**| Bachelor's in Computer Science               |
-| **Expert Tech Stack**| React, Node.js, MongoDB, Express           |
-| **Languages**      | JavaScript, HTML, CSS, Python               |
-| **Other Interests**| Machine Learning, UX/UI Design, Open Source |
-
-
 <br>
 
 ## **I teach with Udemy**
